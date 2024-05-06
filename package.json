@@ -1,0 +1,23 @@
+{
+  "name": "programma",
+  "version": "1.0.0",
+  "description": "Это стартовый архив для второй проектной работы по бэкенду.",
+  "main": "app.js",
+  "scripts": {
+    "dev" : "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "sashaLoh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotografiya/-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kotografiya/-/issues"
+  },
+  "homepage": "https://github.com/Kotografiya/-#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
