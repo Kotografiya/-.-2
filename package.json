@@ -1,22 +1,18 @@
 {
-  "name": "programma",
+  "name": "prog.ad2",
   "version": "1.0.0",
-  "description": "Это стартовый архив для второй проектной работы по бэкенду.",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev" : "nodemon app.js",
-    "start": "node app.js"
+    "start": "nodemon index.js"
   },
-  "author": "sashaLoh",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kotografiya/-.git"
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
   },
-  "bugs": {
-    "url": "https://github.com/Kotografiya/-/issues"
-  },
-  "homepage": "https://github.com/Kotografiya/-#readme",
   "devDependencies": {
     "nodemon": "^3.1.0"
   }
